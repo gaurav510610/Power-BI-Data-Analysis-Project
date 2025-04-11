@@ -1,0 +1,52 @@
+steps
+--connecting to pg admin with power bi 
+-- data cleaning procees in this data cleaning we are going to see power query tools and using tranforming tools and some functions
+--data processing --clean or use some dax functionality in power bi to get some custom columns or conditional columns in our report 
+it transforms raw data into a usable format, making it easier to understand, analyze, and use for various purposes, such as decision-making, reporting, and analysis
+Key Stages:
+Data Collection: Gathering data from various sources, such as databases, sensors, or manual entry. 
+Data Cleaning: Removing errors, inconsistencies, and irrelevant data to ensure data quality. 
+Data Formatting: Transforming data into a suitable format for analysis, such as sorting, aggregating, or summarizing. 
+Data Analysis: Applying statistical methods, machine learning algorithms, or other analytical techniques to derive insights and patterns from the data. 
+Data Storage: Storing processed data securely and efficiently for future use. 
+--data vusualizion  building charts and using some advanced functionality to format the charts
+--dashboard =beautiful and dynamic dashboard
+---probem statement 
+--kpi reqirement 
+1.totalrevenue =sum of total price   of all pizzas  orders
+2== averahe ordeer value=total revenue/ total orders,the average amount spent per order
+3-- total pizzas sold=sum of quntities of all pizzas sold
+4--  total orders=the total numbers of order places
+5--averge pizzas per order---total number of pizzas sold/total no of orders
+--- charts requirement
+1.daily trend for total  orders:
+create a bar chart that dispalay the daily trends of total orders overs a specific  time period,this chart help us to identifyy any patterns or fluctuations  in order volumes on a daily basis.
+
+2.--monthly trend for total orders---
+create a line chart that  illustrates the hourly trend for total orderr throughout the day .this chart will allow us to identify 
+peak hours or periods of high order activity
+3--- percentage of sales by pizza category
+create a pie chart that show distribution of sales across different pizza catehories .this chart will provide insights 
+into the popularity of various pizza categories and their contribution to overall sales 
+ 
+4.percentage of sales by pizza size--
+generate a pie chart that represents the percentage of sales attributed to different pizza sizes..this chart will help us to understand customer preferences for pizza sizes and their impact sales.
+5..Total pizzas sold by pizza category:
+create a funnel chart that presents the total number of pizzas sold for each pizza category.this chart will allow us to compare the sale performance of different pizza category 
+6---top 5 Best sellers by revenue ,total quantity and total orders 
+create a bar chart highlighting the top 5 best-selling pizzas based on the revenue ,total quantity,total orders.this  chart will 
+help us to identify the most popular pizza  options .
+
+7.--Bottom 5 Best sellers by Revenue,total quantity and total orders
+create a bar chart showcasing the bottom 5 worst-selling pizzas based on the revenue,total quantity ,total orders,.
+this chart will enable us to identify underperforming or less popular pizzas options. 
+
+
+created measures
+1. Total   Revenue:
+2. Average Order Value:
+3. Total Pizzas Sold:
+4. Total_orders:
+5. Average  pizzas per order:
+66--- adding button home and best/worst sellers
+ 
