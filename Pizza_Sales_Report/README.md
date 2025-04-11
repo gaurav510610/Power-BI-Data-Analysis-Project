@@ -149,7 +149,7 @@ The analysis has unveiled critical insights that can guide business decisions. S
     It is also recommended that priority should be given to the Large Size and Classic categories since they dominate sales.
     
     The month of July records the highest patronage periods. To keep sales going smoothly and prevent any eventuality of shortage, it is recommended that additional staff and resources 
-    should be allocated to this month. Same as Fridays.
+    should be allocated to this month. Same as Fridays..
 
 
 
